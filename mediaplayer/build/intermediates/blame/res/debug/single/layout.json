@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\video_list.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\video_list.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_player_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_list_item.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_list_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_player_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\video_player_top.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\video_player_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\vitamio_video_player.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\vitamio_video_player.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\video_player_bottom.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\video_player_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player_middle.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_player_middle.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_list.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_list.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_item.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\video_list_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\simple_listview.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\simple_listview.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_player.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\video_player.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\video_player.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\layout\\audio_notify.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\layout\\audio_notify.xml"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_playmode_random_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_playmode_random_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_playlist_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_playlist_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\base_left_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\base_left_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_playmode_allrepeat_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_playmode_allrepeat_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_defaultscreen_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_defaultscreen_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_seekbar_drawable.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_seekbar_drawable.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_pre_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_pre_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_pause_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_pre_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_pre_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_seekbar_drawable.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_seekbar_drawable.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_next_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_next_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_pause_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_playmode_singlerepeat_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_playmode_singlerepeat_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_next_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_next_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_mute_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_mute_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_wave_anim.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_wave_anim.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_exit_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_exit_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_play_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\audio_play_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_play_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_play_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\main_list_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\main_list_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable\\video_fullscreen_selector.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable\\video_fullscreen_selector.xml"
+    }
+]

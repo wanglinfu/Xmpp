@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_full_screen_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_full_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_09.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_09.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_video_system_status.9.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\bg_video_system_status.9.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pre_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_pre_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_video_bottom_control.9.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\bg_video_bottom_control.9.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_03.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_03.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_play.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_play.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_pre.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_pre.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_titlebar_bg.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\base_titlebar_bg.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playmode_allrepeat_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playmode_allrepeat_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_seekbar_bg.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_seekbar_bg.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playmode_all_repeat_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playmode_all_repeat_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_02.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_02.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playlist.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playlist.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_08.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_08.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_video_duration_control.9.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\bg_video_duration_control.9.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_default_bg.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\music_default_bg.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_exit.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_exit.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playmode_singlerepeat_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playmode_singlerepeat_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_player_loading_background.9.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\bg_player_loading_background.9.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_60.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_60.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_seek_thumb.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_seek_thumb.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playmode_random_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playmode_random_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playlist_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playlist_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_pre_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_pre_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_notification_next.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\icon_notification_next.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_left_button_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\base_left_button_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_next_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_next_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_screen_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_default_screen_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_04.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_04.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_music_playing.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\notification_music_playing.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_next_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_next_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_voice_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_voice_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_0.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_0.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_default_icon.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\video_default_icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_07.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_07.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next_gray.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_next_gray.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_bg.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\base_bg.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_voice_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_100.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_100.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_play_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_pause_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pre_gray.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_pre_gray.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_play_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_06.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_06.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_progress_thumb.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\video_progress_thumb.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_pause.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_pause.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_20.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_20.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_full_screen_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_full_screen_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playmode_singlerepeat_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playmode_singlerepeat_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_next.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_next.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_01.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_01.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pre_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_pre_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_80.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_80.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_anim_05.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_anim_05.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playmode_random_normal.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_playmode_random_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_seekbar_progress.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\video_seekbar_progress.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_video_volume_control.9.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\bg_video_volume_control.9.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_10.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_10.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_screen_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_default_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_notification_pre.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\icon_notification_pre.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_pause_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audio_seekbar_progress.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\audio_seekbar_progress.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery_40.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\ic_battery_40.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_seekbar_bg.9.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\video_seekbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_audio_play_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_audio_play_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_exit_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\btn_exit_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\base_left_button_pressed.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\Xmpp\\mediaplayer\\src\\main\\res\\drawable-hdpi\\base_left_button_pressed.png"
+    }
+]

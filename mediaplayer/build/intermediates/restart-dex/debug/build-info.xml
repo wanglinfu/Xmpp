@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="185887575293106" >
+
+    <task
+        name="javac"
+        duration="694" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="463" />
+    <task
+        name="verifier"
+        duration="87" />
+
+    <artifact
+        location="D:\Users\Administrator\AndroidStudioProjects\Xmpp\mediaplayer\build\outputs\apk\mediaplayer-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="185887575293106" >
+        <artifact
+            location="D:\Users\Administrator\AndroidStudioProjects\Xmpp\mediaplayer\build\outputs\apk\mediaplayer-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
